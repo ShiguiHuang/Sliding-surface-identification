@@ -3,6 +3,8 @@
 
 The program is written by python and its OpenCV,alpha shape library, which can identify the sliding surface recognition based on the total displacement contour map.
 
+After downloading this project, you can directly run *Sliding_identification_program.ipynb* file after configuring the python environment as required.
+
 **The requirements for running the code are as follows**
 |Package|Version|
 |-|-|
